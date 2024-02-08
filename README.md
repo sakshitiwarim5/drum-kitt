@@ -1,2 +1,0 @@
-# drum-kitt
-author - sakshitiwari
